@@ -21,13 +21,14 @@ export default async function CreateAccount() {
     <section className={classes.createAccount}>
       <div className={classes.heroImg}>
         <Link href="/">
-          <Image
+          {/* <Image
             src="/logo-black.svg"
             alt="logo"
             width={250}
             height={23}
             className={classes.logo}
-          />
+          /> */}
+          <h3>Sanjeevan</h3>
         </Link>
       </div>
 

@@ -15,13 +15,14 @@ export default async function RecoverPassword() {
     <section className={classes.recoverPassword}>
       <div className={classes.heroImg}>
         <Link href="/">
-          <Image
+          {/* <Image
             src="/logo-black.svg"
             alt="logo"
             width={250}
             height={23}
             className={classes.logo}
-          />
+          /> */}
+          <h3>Sanjeevan</h3>
         </Link>
       </div>
 
