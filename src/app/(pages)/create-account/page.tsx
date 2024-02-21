@@ -28,7 +28,7 @@ export default async function CreateAccount() {
             height={23}
             className={classes.logo}
           /> */}
-          <h3>Sanjeevan</h3>
+          {/* <h3>Sanjeevan</h3> */}
         </Link>
       </div>
 
